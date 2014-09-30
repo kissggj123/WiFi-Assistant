@@ -1,0 +1,30 @@
+﻿生成启动时间为 2014/9/25 13:48:01。
+     1>项目“F:\hworld VB\WiFiAssistant\WiFiAssistant\WiFiAssistant.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WiFiAssistant.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AccessDeviceManager.cpp GlobalAssistantProcess.cpp WiFiAssistant.cpp WirelessNetworkAdapterConfig.cpp
+         AccessDeviceManager.cpp
+         正在生成代码...
+         正在编译...
+         WirelessNetworkAdapterConfig.cpp
+         WiFiAssistant.cpp
+         GlobalAssistantProcess.cpp
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\hworld VB\WiFiAssistant\Debug\WiFiAssistant.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\WiFiAssistant.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\hworld VB\WiFiAssistant\Debug\WiFiAssistant.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\hworld VB\WiFiAssistant\Debug\WiFiAssistant.lib" /MACHINE:X86 Debug\WiFiAssistant.res
+         Debug\AccessDeviceManager.obj
+         Debug\AssistantExtension.obj
+         Debug\ErrorInternal.obj
+         Debug\GlobalAssistantProcess.obj
+         Debug\LimitEdit.obj
+         Debug\MyForm.obj
+         Debug\stdafx.obj
+         Debug\TimeBox.obj
+         Debug\WHPerformanceEvaluation.obj
+         Debug\WiFiAssistant.obj
+         Debug\WirelessNetworkAdapterConfig.obj
+         WiFiAssistant.vcxproj -> F:\hworld VB\WiFiAssistant\Debug\WiFiAssistant.exe
+     1>已完成生成项目“F:\hworld VB\WiFiAssistant\WiFiAssistant\WiFiAssistant.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.26
